@@ -1,6 +1,6 @@
 # Hello There
 
-We are the Terrarians. We build vex robots.
+We are the Terrarians.
 
 <!--
 
